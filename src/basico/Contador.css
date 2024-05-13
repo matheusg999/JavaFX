@@ -1,0 +1,29 @@
+.conteudo {
+	-fx-background-color: black; background-color: black;
+	-fx-font-family: "Oswald"; font-family: "Oswald"; 
+}
+.titulo{
+	-fx-text-fill: purple;
+	-fx-font-size: 36px; font-size: 36px;
+	
+}
+
+.numero{
+	-fx-text-fill: white;
+	-fx-font-size: 28px; font-size: 28px;
+}
+
+.botoes{
+	-fx-background-color: white; background-color: white;
+	-fx-text-fill: purple;
+	-fx-font-size: 24px; font-size: 24px;
+	-fx-min-width: 60px; min-width: 60px;
+	-fx-min-height: 60px; min-height: 60px;
+	-fx-background-radius: 30px;
+}
+.verde{
+	-fx-text-fill: green;
+}
+.vermelho{
+	-fx-text-fill: red;
+}
